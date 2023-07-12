@@ -1,0 +1,2 @@
+# Prediccion-de-ACV-usando-tecnicas-de-mineria-de-datos
+A partir de un conjunto de datos consistente en variables médicas y socioeconómicas de un grupo de individuos, con la existencia o no de Accidente Cerebro Vascular, se implementaron modelos de inteligencia artificial basados en aprendizaje supervisado y no supervisado, con el fin de predecir la existencia o no de ACV en un individuo determinado.
